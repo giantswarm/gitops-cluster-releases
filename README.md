@@ -5,7 +5,7 @@ This repository contains GitOps definitions for cluster releases used by Giant S
 If you want to use them as a customer, please check the
 [gitops-template repo](https://github.com/giantswarm/gitops-template).
 
-If you want to contribute and add bases for a new releases, please check [docs](/docs/add_release.md).
+If you want to contribute and add bases for a new releases, please check [docs](/docs/add_release_vintage.md).
 
 ## Contributing
 
